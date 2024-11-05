@@ -32,10 +32,10 @@ This guide provides instructions on setting up custom inventory files in Ansible
 
 ### Step 3: Create Custom Inventory Files for Different Environments
 
-1. Navigate to the `ansible` directory:
+1. Navigate to the `inventories` directory:
 
     ```bash
-    cd ~/ansible
+    cd inventories
     ```
 
 2. Create the `dev` inventory file with the following command:
